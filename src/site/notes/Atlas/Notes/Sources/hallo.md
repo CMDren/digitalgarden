@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/hallo/"}
+{"dg-publish":true,"dg-path":"\"Test/Tests.md\"","permalink":"/test/tests/"}
 ---
 
 hallo
